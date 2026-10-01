@@ -1,0 +1,10 @@
+# Secrets and credentials - never commit
+.env
+*.pem
+*.key
+*credentials*
+*secret*
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
