@@ -8,3 +8,4 @@ Each client has its own folder with a short case study: the **problem**, the **s
 | Client | Industry | Solution | Channel |
 |---|---|---|---|
 | [Green Line Energy](green-line-energy/README.md) | Travel / Transportation | Telematics and driver safety automation | Voice |
+| [Dot & Key](dot-and-key/README.md) | Beauty & Cosmetics / D2C | Order status IVR on a single number | Voice (IVR) |
