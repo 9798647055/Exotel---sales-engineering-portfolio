@@ -21,3 +21,4 @@ Inbound call -> Caller number -> Business API lookup -> 200 OK: play status
 | Project | Industry |
 |---|---|
 | [Dot & Key: Order Status IVR](../../dot-and-key/README.md) | Beauty & Cosmetics / D2C |
+| [Swiss Beauty: Order Status IVR + WebRTC Agent Calling](../../swiss-beauty/README.md) | Beauty & Cosmetics / D2C |
