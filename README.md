@@ -10,6 +10,7 @@ Each client has its own folder with a full write-up: requirements, proposed solu
 | Client | Industry | Solution | Channel | Status |
 |---|---|---|---|---|
 | [Green Line Energy](green-line-energy/README.md) | Travel / Transportation | Telematics and driver safety automation | Voice | Implemented |
+| [Dot & Key](dot-and-key/README.md) | Beauty & Cosmetics / D2C | Order status IVR on a single number | Voice (IVR) | Implemented |
 
 ## Repository structure
 ```
