@@ -1,24 +1,10 @@
-# Exotel Sales Engineering Portfolio
+# Exotel: Sales Engineering Portfolio
 
-Sales Engineering portfolio showcasing CPaaS, cloud telephony, API integrations, solution architecture, customer use cases, and POC implementations.
+A portfolio of solutions I proposed and implemented for clients during my time at **Exotel**, covering CPaaS, cloud telephony, API integrations and solution architecture.
 
-> **Confidentiality:** keep this repository private. Do not commit credentials, API keys, contract values or personal customer data.
+Each client has its own folder with a short case study: the **problem**, the **solution I proposed**, the **workflow** and the **business value**.
 
-## Projects
-| Client | Industry | Solution | Channel | Status |
-|---|---|---|---|---|
-| [Green Line Energy](projects/green-line-energy-telematics-driver-safety/README.md) | Travel / Transportation | Telematics and driver safety automation | Voice | Implemented |
-
-## Repository structure
-```
-projects/     One folder per client solution
-use-cases/    Reusable solution patterns across clients
-templates/    Templates for new projects
-```
-
-## Adding a new project
-1. Copy the layout from `templates/project-template.md`
-2. Create `projects/<client>-<solution>/`
-3. Fill in the README, requirements, solution, architecture, integration, plan, playbook and outcome
-4. Add a row to the Projects table above
-5. Add it to the matching page under `use-cases/`
+## Clients
+| Client | Industry | Solution | Channel |
+|---|---|---|---|
+| [Green Line Energy](green-line-energy/README.md) | Travel / Transportation | Telematics and driver safety automation | Voice |
