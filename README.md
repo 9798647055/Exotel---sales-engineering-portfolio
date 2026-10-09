@@ -12,6 +12,7 @@ Each client has its own folder with a full write-up: requirements, proposed solu
 | [Green Line Energy](green-line-energy/README.md) | Travel / Transportation | Telematics and driver safety automation | Voice | Implemented |
 | [Dot & Key](dot-and-key/README.md) | Beauty & Cosmetics / D2C | Order status IVR on a single number | Voice (IVR) | Implemented |
 | [Swiss Beauty](swiss-beauty/README.md) | Beauty & Cosmetics / D2C | Order status IVR with WebRTC agent calling | Voice (IVR + WebRTC) | Implemented |
+| [Haptik (for Jio)](haptik-jio-voicebot/README.md) | Telecom / Conversational AI | Recharge reminder voicebot on SIP trunk + chat-to-callback | Voice (SIP trunk, outbound API) | Implemented |
 
 ## Repository structure
 ```

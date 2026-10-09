@@ -13,6 +13,7 @@ Business system -> Event -> Cloud Telephony API -> Identify recipient -> Outboun
 | Transport / fleet | Overspeeding, engine overheating, fatigue | Driver |
 | Banking | Suspicious transaction | Customer |
 | Healthcare | Appointment or medication reminder | Patient |
+| Telecom | Recharge or plan expiry reminder | Customer |
 | Utilities | Outage or payment due | Customer |
 | Logistics | Delivery exception | Customer or driver |
 
@@ -20,3 +21,4 @@ Business system -> Event -> Cloud Telephony API -> Identify recipient -> Outboun
 | Project | Industry |
 |---|---|
 | [Green Line Energy: Telematics & Driver Safety](../../green-line-energy/README.md) | Travel / Transportation |
+| [Haptik (for Jio): Recharge Reminder Voicebot](../../haptik-jio-voicebot/README.md) | Telecom / Conversational AI |
